@@ -1,0 +1,13 @@
+# Simple placeholder OBJ for Landscape Scene
+# (small plane with one elevated vertex)
+o Landscape
+v -1 0 -1
+v 1 0 -1
+v 1 0 1
+v -1 0 1
+v 0 0.5 0
+f 1 2 5
+f 2 3 5
+f 3 4 5
+f 4 1 5
+f 1 2 3 4
